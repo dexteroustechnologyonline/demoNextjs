@@ -47,7 +47,7 @@ export function generateMetadata() {
 const About = () => {
   return (
     <>
-      <main>Welcome to About Page configuration</main>
+      <main>Welcome to About configuration</main>
     </>
   );
 };
