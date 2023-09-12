@@ -11,7 +11,7 @@ export function generateMetadata() {
       image: "",     
     },
     alternates: {
-      canonical: "https://nextjs.org",
+      canonical: "https://alikidi.com",
     },
   };
 }
@@ -19,7 +19,7 @@ export function generateMetadata() {
 const About = () => {
   return (
     <>
-      <main>Welcome to About Page</main>
+      <main>Welcome to About Page configuration</main>
     </>
   );
 };
